@@ -1,0 +1,9 @@
+{
+  "appId": "com.sura.urgencias.colas",
+  "appName": "Urgencias Colas SURA",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
+

@@ -1,0 +1,10 @@
+{
+  "short_name": "Colas Urgencias",
+  "name": "Urgencias Colas SURA - Teoría de Colas M/M/1 y M/M/S",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#001E62",
+  "theme_color": "#0033A0",
+  "orientation": "portrait-primary"
+}
+

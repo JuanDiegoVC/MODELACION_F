@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Urgencias Colas SURA</string>
+    <string name="title_activity_main">Urgencias Colas SURA</string>
+    <string name="package_name">com.sura.urgencias.colas</string>
+    <string name="custom_url_scheme">com.sura.urgencias.colas</string>
+</resources>
